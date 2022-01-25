@@ -1,0 +1,21 @@
+/**
+* @name Besiktas taraftar tema
+* @version 1.0.1
+* @description Beşiktaş taraftarları için basit şekilde hazırladığım discord teması. A simple discord theme I prepared for Beşiktaş fans.
+* @author LazHayalet
+* @invite QnMvKTxtFy
+* @donate 
+* @Source https://github.com/DiscordStyles/DarkMatter/
+* @website https://discord.gg/QnMvKTxtFy
+*/
+@import url("https://DiscordStyles.github.io/DarkMatter/src/base.css");
+:root {
+--background-image: url('https://images.bjk.com.tr/media/taraftar_media/taraftar-67570aec759b4c9.jpg');
+--home-image: url('https://i.imgur.com/fRZrtNx.gif');
+--avatar-size: 31px;
+--accent: 155,0,0;
+--accent-alt: 77,77,77;
+--background-solid: #000000FF;
+--background-solid-dark: #101218FF;
+--background-solid-darker: #2C2C2CFF;
+}
